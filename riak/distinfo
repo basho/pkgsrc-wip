@@ -14,4 +14,5 @@ SHA1 (patch-rel__files__app.config) = 33c87fdff4bd23305183bdd647fcd47448e53c24
 SHA1 (patch-rel__files__riak) = 74a6dd96c3b453cd0c943f645d158931007f6c1a
 SHA1 (patch-rel__files__riak-admin) = ae90938e0e67f9241eb5285ef14393c28a1bf50b
 SHA1 (patch-rel__files__vm.args) = c8397feee259e07c14d6025593e3071773306f82
+SHA1 (patch-rel__reltool.config) = 42077c903f8f904f8ded57dc384deb7554290c5c
 SHA1 (patch-rel__vars.config) = b75086ed0a250858b2c1ac3b55b5c5719ecf8fab

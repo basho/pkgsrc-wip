@@ -12,6 +12,9 @@ LICENSE=		apache-2.0
 
 CONFLICTS+=		riakeds-[0-9]*
 
+BUILD_DEPENDS+= erlang-14.1.4*:../../lang/erlang
+BUILDLINK_DEPMETHOD.erlang= build
+
 PKG_DESTDIR_SUPPORT=	user-destdir
 
 USE_LANGUAGES=		c c++
